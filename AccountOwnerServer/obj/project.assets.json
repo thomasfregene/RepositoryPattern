@@ -213,6 +213,9 @@
       "Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Contracts.dll": {}
         },
@@ -247,8 +250,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Contracts": "1.0.0",
-          "Entities": "1.0.0"
+          "Contracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Respository.dll": {}
@@ -718,7 +720,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Entities >= 1.0.0",
       "LoggerService >= 1.0.0",
       "Pomelo.EntityFrameworkCore.MySql >= 5.0.1",
       "Respository >= 1.0.0"
@@ -754,9 +755,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\ProjectTom\\RepositoryPattern\\Entities\\Entities.csproj": {
-              "projectPath": "F:\\ProjectTom\\RepositoryPattern\\Entities\\Entities.csproj"
-            },
             "F:\\ProjectTom\\RepositoryPattern\\LoggerService\\LoggerService.csproj": {
               "projectPath": "F:\\ProjectTom\\RepositoryPattern\\LoggerService\\LoggerService.csproj"
             },

@@ -29,7 +29,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "F:\\ProjectTom\\RepositoryPattern\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\ProjectTom\\RepositoryPattern\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -148,9 +152,6 @@
             "projectReferences": {
               "F:\\ProjectTom\\RepositoryPattern\\Contracts\\Contracts.csproj": {
                 "projectPath": "F:\\ProjectTom\\RepositoryPattern\\Contracts\\Contracts.csproj"
-              },
-              "F:\\ProjectTom\\RepositoryPattern\\Entities\\Entities.csproj": {
-                "projectPath": "F:\\ProjectTom\\RepositoryPattern\\Entities\\Entities.csproj"
               }
             }
           }
