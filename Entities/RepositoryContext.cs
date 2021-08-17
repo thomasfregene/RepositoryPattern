@@ -7,9 +7,9 @@ using System.Text;
 
 namespace Entities
 {
-    public class RespositoryContext : DbContext
+    public class RepositoryContext : DbContext
     {
-        public RespositoryContext(DbContextOptions options)
+        public RepositoryContext(DbContextOptions options)
             :base(options)
         {
 

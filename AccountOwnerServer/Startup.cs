@@ -28,6 +28,7 @@ namespace AccountOwnerServer
         {
             services.AddControllers();
             services.ConfigureMySqlContext(Configuration);
+            services.ConfigureRepositoryWrapper();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

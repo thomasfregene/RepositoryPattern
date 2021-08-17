@@ -6,9 +6,9 @@ using System.Text;
 
 namespace Respository
 {
-    public class OwnerRespository : RespositoryBase<Owner>, IOwnerRespository
+    public class OwnerRepository : RepositoryBase<Owner>, IOwnerRepository
     {
-        public OwnerRespository(RespositoryContext respositoryContext)
+        public OwnerRepository(RepositoryContext respositoryContext)
             : base(respositoryContext)
         {
 

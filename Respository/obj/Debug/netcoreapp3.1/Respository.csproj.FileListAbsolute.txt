@@ -1,0 +1,13 @@
+F:\ProjectTom\RepositoryPattern\Respository\bin\Debug\netcoreapp3.1\Respository.deps.json
+F:\ProjectTom\RepositoryPattern\Respository\bin\Debug\netcoreapp3.1\Respository.dll
+F:\ProjectTom\RepositoryPattern\Respository\bin\Debug\netcoreapp3.1\Respository.pdb
+F:\ProjectTom\RepositoryPattern\Respository\bin\Debug\netcoreapp3.1\Contracts.dll
+F:\ProjectTom\RepositoryPattern\Respository\bin\Debug\netcoreapp3.1\Entities.dll
+F:\ProjectTom\RepositoryPattern\Respository\bin\Debug\netcoreapp3.1\Contracts.pdb
+F:\ProjectTom\RepositoryPattern\Respository\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\ProjectTom\RepositoryPattern\Respository\obj\Debug\netcoreapp3.1\Respository.csprojAssemblyReference.cache
+F:\ProjectTom\RepositoryPattern\Respository\obj\Debug\netcoreapp3.1\Respository.AssemblyInfoInputs.cache
+F:\ProjectTom\RepositoryPattern\Respository\obj\Debug\netcoreapp3.1\Respository.AssemblyInfo.cs
+F:\ProjectTom\RepositoryPattern\Respository\obj\Debug\netcoreapp3.1\Respository.csproj.CopyComplete
+F:\ProjectTom\RepositoryPattern\Respository\obj\Debug\netcoreapp3.1\Respository.dll
+F:\ProjectTom\RepositoryPattern\Respository\obj\Debug\netcoreapp3.1\Respository.pdb

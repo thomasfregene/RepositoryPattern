@@ -9,10 +9,10 @@ using System.Text;
 
 namespace Respository
 {
-    public abstract class RespositoryBase<T> : IRespositoryBase<T> where T : class
+    public abstract class RepositoryBase<T> : IRepositoryBase<T> where T : class
     {
-        public RespositoryContext RespositoryContext { get; set; }
-        public RespositoryBase(RespositoryContext respositoryContext)
+        public RepositoryContext RespositoryContext { get; set; }
+        public RepositoryBase(RepositoryContext respositoryContext)
         {
             RespositoryContext = respositoryContext;
         }

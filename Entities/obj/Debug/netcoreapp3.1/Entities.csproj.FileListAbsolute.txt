@@ -3,3 +3,6 @@ F:\ProjectTom\RepositoryPattern\Entities\bin\Debug\netcoreapp3.1\Entities.dll
 F:\ProjectTom\RepositoryPattern\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
 F:\ProjectTom\RepositoryPattern\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
 F:\ProjectTom\RepositoryPattern\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+F:\ProjectTom\RepositoryPattern\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\ProjectTom\RepositoryPattern\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+F:\ProjectTom\RepositoryPattern\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

@@ -1,0 +1,11 @@
+F:\ProjectTom\RepositoryPattern\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+F:\ProjectTom\RepositoryPattern\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+F:\ProjectTom\RepositoryPattern\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+F:\ProjectTom\RepositoryPattern\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+F:\ProjectTom\RepositoryPattern\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\ProjectTom\RepositoryPattern\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+F:\ProjectTom\RepositoryPattern\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+F:\ProjectTom\RepositoryPattern\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+F:\ProjectTom\RepositoryPattern\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+F:\ProjectTom\RepositoryPattern\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+F:\ProjectTom\RepositoryPattern\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb

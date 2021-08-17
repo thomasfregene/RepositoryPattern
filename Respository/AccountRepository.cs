@@ -7,9 +7,9 @@ using System.Text;
 
 namespace Respository
 {
-    public class AccountRespository : RespositoryBase<Account>, IAccountRespository
+    public class AccountRepository : RepositoryBase<Account>, IAccountRepository
     {
-        public AccountRespository(RespositoryContext respositoryContext)
+        public AccountRepository(RepositoryContext respositoryContext)
             : base(respositoryContext)
         {
 

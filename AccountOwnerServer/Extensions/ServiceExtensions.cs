@@ -1,8 +1,10 @@
-﻿using Entities;
+﻿using Contracts;
+using Entities;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Respository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -39,7 +41,12 @@ namespace AccountOwnerServer.Extensions
         public static void ConfigureMySqlContext(this IServiceCollection services, IConfiguration config)
         {
             var connectionString = config["mysqlconnection:connectionString"];
-            services.AddDbContext<RespositoryContext>(o => o.UseMySql(connectionString, new MySqlServerVersion(new Version(8, 0, 11))));
+            services.AddDbContext<RepositoryContext>(o => o.UseMySql(connectionString, new MySqlServerVersion(new Version(8, 0, 11))));
+        }
+
+        public static void ConfigureRepositoryWrapper(this IServiceCollection services)
+        {
+            services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
         }
     }
 }

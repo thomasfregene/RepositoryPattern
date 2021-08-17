@@ -1,0 +1,8 @@
+F:\ProjectTom\RepositoryPattern\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+F:\ProjectTom\RepositoryPattern\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+F:\ProjectTom\RepositoryPattern\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+F:\ProjectTom\RepositoryPattern\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+F:\ProjectTom\RepositoryPattern\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+F:\ProjectTom\RepositoryPattern\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+F:\ProjectTom\RepositoryPattern\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+F:\ProjectTom\RepositoryPattern\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

@@ -1,11 +1,11 @@
-﻿using Entities;
+﻿using Entities.Model;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Contracts
 {
-    public interface IOwnerRespository : IRespositoryBase<Owner>
+    public interface IAccountRepository : IRepositoryBase<Account>
     {
     }
 }
